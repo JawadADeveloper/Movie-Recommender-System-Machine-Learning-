@@ -6,13 +6,13 @@ This project is a machine learning-based movie recommender system designed to pr
 Collaborative Filtering: Utilizes user ratings to recommend movies similar to those rated highly by users with similar tastes.
 Content-Based Filtering: Analyzes movie attributes (e.g., genres, actors) to suggest movies similar to those a user has liked.
 Hybrid Approach: Combines both collaborative and content-based methods for enhanced recommendation accuracy.
-Technologies
-Python
-Scikit-Learn
-Pandas
-NumPy
-Surprise (for collaborative filtering)
-Streamlit (for web application, if applicable)
+# Technologies
+1. Python
+2. Scikit-Learn
+3. Pandas
+4. NumPy
+5. Surprise (for collaborative filtering)
+6. Streamlit (for web application, if applicable)
 # Usage
 Run the main script to train the model and generate recommendations. For a web-based interface, start the Flask server with python app.py.
 
